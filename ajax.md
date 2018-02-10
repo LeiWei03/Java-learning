@@ -1,7 +1,5 @@
 # Ajax
 
-
-
 ### jquery中的ajax方法参数
 ```javascript
 	URL：地址。
@@ -12,3 +10,4 @@
 	error：请求失败是被调回的函数。
 ```
  
+
